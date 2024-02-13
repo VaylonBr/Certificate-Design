@@ -4,11 +4,11 @@
 
 <h3>🛠 Technologies</h3>
 
-![TailwindCSS](https://github.com/VaylonBr/certificate-design/assets/124805698/7a8058f9-78f9-4244-9bf5-6d91b6fffb35)
-![Vite](https://github.com/VaylonBr/certificate-design/assets/124805698/36a840ce-1bd0-4f7d-8a30-4dae0c152c4c)
-[Node.js](https://nodejs.org/en/)
-[React](https://pt-br.reactjs.org/)
-[TypeScript](https://www.typescriptlang.org/)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 <p>Feel free to customize, share, and use it in any way that suits your needs!</p>
 
