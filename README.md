@@ -1,8 +1,8 @@
 <h1 align="center">Certificate Design</h1>
 
- ### 🛠 Technologies
-
 <div align="center">
+
+<h3>🛠 Technologies</h3>
 
 - [Tailwind](https://tailwndcss.com)
 - [Vite](https://vitejs.dev/)
