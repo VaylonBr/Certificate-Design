@@ -15,5 +15,5 @@
 <p>If you find this project interesting, you can follow me on LinkedIn for more updates. Additionally, you can explore the project on GitHub Pages</p>
 
 - [Linkedin](https://www.linkedin.com/in/lucas-r-60208a276/)
-- [Site][(https://vaylonbr.github.io/certificate-design/)
+- [Site]((https://vaylonbr.github.io/certificate-design/)
 </div>
