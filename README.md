@@ -14,5 +14,5 @@
 
 <p>If you find this project interesting, you can follow me on LinkedIn. Additionally, you can explore the project on GitHub Pages</p>
 
-[Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Site](https://vaylonbr.github.io/certificate-design/)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Site](https://vaylonbr.github.io/certificate-design/)
 </div>
