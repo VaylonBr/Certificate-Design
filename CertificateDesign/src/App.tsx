@@ -2,6 +2,9 @@ import Logo from "./assets/Logo.svg"
 
 export function App() {
 
+  const currentDate = new Date();
+  const localDate = currentDate.toLocaleDateString("pt-br");
+
   return (
     <div className="h-screen p-5 grid items-center">
       <div className="bg-MainBackgroundColor h-96 ring-2 ring-BorderColor rounded-lg text-center md:space-y-3 grid">
@@ -27,7 +30,7 @@ export function App() {
       <footer className="text-xs md:text-base flex justify-center space-x-12">
         <div>
           <p className="text-TextColor">Data de Emissão</p>
-          <span className="text-CustomGreenColor">12/02/2024</span>
+          <span className="text-CustomGreenColor">{localDate}</span>
         </div>
 
         <div>
