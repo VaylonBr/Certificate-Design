@@ -4,7 +4,7 @@
 
 <h3>🛠 Technologies</h3>
 
-[Tailwind](https://tailwndcss.com)
+[TailwindCSS](https://tailwndcss.com)
 [Vite](https://vitejs.dev/)
 [Node.js](https://nodejs.org/en/)
 [React](https://pt-br.reactjs.org/)
