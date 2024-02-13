@@ -18,5 +18,5 @@
 <div/>
   
 ![Site](https://github.com/VaylonBr/certificate-design/assets/124805698/ce4e7e54-f60e-431c-a030-ef2a6bde83ef)
-)
+
 </div>
