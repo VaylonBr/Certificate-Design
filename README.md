@@ -4,8 +4,8 @@
 
 <h3>🛠 Technologies</h3>
 
-[TailwindCSS](https://tailwndcss.com)
-[Vite](https://vitejs.dev/)
+![TailwindCSS](https://github.com/VaylonBr/certificate-design/assets/124805698/7a8058f9-78f9-4244-9bf5-6d91b6fffb35)
+![Vite](https://github.com/VaylonBr/certificate-design/assets/124805698/36a840ce-1bd0-4f7d-8a30-4dae0c152c4c)
 [Node.js](https://nodejs.org/en/)
 [React](https://pt-br.reactjs.org/)
 [TypeScript](https://www.typescriptlang.org/)
